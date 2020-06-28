@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GuessColor</string>
+    <string name="title_activity_game">GameActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="choose">请选择游戏模式</string>
+    <string name="notsame">游玩没有重复颜色</string>
+    <string name="cansame">游玩有重复颜色</string>
+    <string name="gameTop">请选择组合并确认</string>
+    <string name="gedhint">一个红色代表一个全对</string>
+    <string name="whitehint">一个白色代表一个仅颜色正确</string>
+    <string name="help_page">玩法介绍</string>
+</resources>
